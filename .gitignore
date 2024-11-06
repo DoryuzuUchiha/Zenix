@@ -1,0 +1,58 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.swp
+*.swo
+*.temp
+
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+
+# Avoid committing node_modules folder if you have node dependencies
+node_modules/
+
+# Asset Store tools
+Assets/AssetStoreTools*
+
+# Unity Auto-generated
+/Temp/
+/Obj/
+/Library/
+/Build/
+/Builds/
+/Logs/
+/ProjectSettings/
+
+# IDE specific
+.idea/
+.vscode/
+.vscode/
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/.DS_Store
+/*.suo
+/*.svd
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.unityproj
+/*.pidb
+/*.booproj
